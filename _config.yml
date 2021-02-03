@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -31,6 +31,13 @@ github_username:  coldboots
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
+  social_links:
+    twitter: coldboots_ctf
+    github: coldboots
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
