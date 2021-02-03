@@ -15,3 +15,6 @@ Norwegian CTF team established 2021.
 * Røllik
 * StateOfLimbo
 * WastefulNick
+
+You can track our progress on [CTFTime](https://ctftime.org/team/144114)
+
