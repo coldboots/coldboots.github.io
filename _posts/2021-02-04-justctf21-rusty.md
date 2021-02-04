@@ -207,7 +207,7 @@ Always remember _Occam's razor_ (loosely paraphrased):
 
 ## Video
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/615Xcp_2cgE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/615Xcp_2cgE" frameborder="0" allowfullscreen></iframe>
 
 ## Resources
 
