@@ -8,13 +8,16 @@ Norwegian CTF team established 2021.
 
 ## team members
 
-* 0x1
+* andreas
 * Arkanor
 * ciphr
 * larsw
+* nicw
+* pwnda4
 * Røllik
 * StateOfLimbo
-* WastefulNick
+* Varcella
+* Vealending
 
 You can track our progress on [CTFTime](https://ctftime.org/team/144114)
 
