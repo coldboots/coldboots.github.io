@@ -13,7 +13,7 @@ Norwegian CTF team established 2021.
 * ciphr
 * larsw
 * nicw
-* pwnda4
+* pwnd4
 * Røllik
 * StateOfLimbo
 * Varcella
